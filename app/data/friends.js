@@ -17,8 +17,8 @@ var friendsArray = [
 		]
 	},
 	{
-		name: 'Han Solo',
-		photo: 'https://cdn.empireonline.com/jpg/50/0/0/640/480/aspectfit/0/0/0/0/0/0/c/features/560ebc7b50e6c513721c309f/Han%20Solo.jpg',
+		name: 'Carl Brutananadilewski',
+		photo: '',
 		scores: [
 			'2',
 			'4',
